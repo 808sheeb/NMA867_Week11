@@ -1,6 +1,6 @@
 {
   "words": {
-    "yesno" : ["yes", "no"],
+    "yesno" : ["yes", "no", "maybe", "hell no"],
     "who": ["the void", "her", "them", "him", "Agent 492", "Da Boss"],
     "op": ["DEADHAWK", "LAST CHANCE", "ALPHA", "2953783837492"],
     "pass": ["1234", "0000", "1998", "2000", "6969"]
